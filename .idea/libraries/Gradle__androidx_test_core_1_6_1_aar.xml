@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:core:1.6.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Quiz_App/app/src/main/res/drawable/caches/transforms-4/01e2ec3cf96bd6e4db2d6d0e8c553e9b/transformed/core-1.6.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Quiz_App/app/src/main/res/drawable/caches/transforms-4/01e2ec3cf96bd6e4db2d6d0e8c553e9b/transformed/core-1.6.1/res" />
+      <root url="jar://$PROJECT_DIR$/../Quiz_App/app/src/main/res/drawable/caches/transforms-4/01e2ec3cf96bd6e4db2d6d0e8c553e9b/transformed/core-1.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Quiz_App/app/src/main/res/drawable/caches/modules-2/files-2.1/androidx.test/core/1.6.1/373d480f7ae91a32ac4ee1583709af21f319c951/core-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

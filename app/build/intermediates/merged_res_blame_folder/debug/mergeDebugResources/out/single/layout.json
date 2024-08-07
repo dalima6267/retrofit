@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.dalima.myapplication.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.dalima.myapplication.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dalima.myapplication.app-mergeDebugResources-3:/layout/item_product.xml",
+        "source": "com.dalima.myapplication.app-main-6:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.dalima.myapplication.app-mergeDebugResources-3:/layout/activity_product_list.xml",
+        "source": "com.dalima.myapplication.app-main-6:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "com.dalima.myapplication.app-mergeDebugResources-3:/layout/activity_product_detaill.xml",
+        "source": "com.dalima.myapplication.app-main-6:/layout/activity_product_detaill.xml"
+    },
+    {
+        "merged": "com.dalima.myapplication.app-mergeDebugResources-3:/layout/item_title.xml",
+        "source": "com.dalima.myapplication.app-main-6:/layout/item_title.xml"
+    }
+]
